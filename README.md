@@ -29,3 +29,13 @@ pentesterhacker
 pentestercracker
 pentesterethical
 pentesterpentester
+
+installation ::
+
+git clone 
+
+cd Sapage
+
+python3 insttaller.py
+
+#then type Sapage from anywhere you wnat
