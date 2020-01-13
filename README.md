@@ -32,7 +32,7 @@ pentesterpentester
 
 installation ::
 
-git clone 
+git clone https://github.com/SyedSadid/Sapage.git
 
 cd Sapage
 
